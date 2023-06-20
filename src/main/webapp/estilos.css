@@ -1,0 +1,62 @@
+/* Estilos generales */
+body {
+    background-color: #f5f5f5;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado */
+h1 {
+    color: #ff9900;
+    text-align: center;
+}
+
+h2 {
+    color: #0099cc;
+}
+
+/* Estilos para el subtítulo */
+h3 {
+    color: #cc0099;
+}
+
+/* Estilos para los párrafos */
+p {
+    color: #336699;
+    font-size: 16px;
+}
+
+/* Estilos para los enlaces */
+a {
+    color: #9900cc;
+    text-decoration: none;
+}
+
+/* Estilos para las imágenes */
+img {
+    border: 5px solid #ff9900;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilos para las tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #336699;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #ff9900;
+    padding: 10px;
+    color: #ffffff;
+    text-align: center;
+}
